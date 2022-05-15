@@ -1,0 +1,1 @@
+# Building-the-bridge-from-azure-fundamentals-to-deploying-at-scale-through-Automation
